@@ -29,6 +29,12 @@ cd sabor-express
 docker-compose up -d
 ```
 
+4. execultar no terminal
+
+```bach
+docker exec -it id_container sh
+```
+
 3. Após o término da aula, para parar e remover os containers, execute:
 
 ```bash
